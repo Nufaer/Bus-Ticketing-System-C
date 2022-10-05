@@ -1,0 +1,240 @@
+A1
+Not Reserved 
+Not Reserved 
+00 
+A2
+Not Reserved 
+Not Reserved 
+00 
+A3
+Not Reserved 
+Not Reserved 
+00 
+A4
+Not Reserved 
+Not Reserved 
+00 
+B1
+Not Reserved 
+Not Reserved 
+00 
+B2
+Not Reserved 
+Not Reserved 
+00 
+B3
+Not Reserved 
+Not Reserved 
+00 
+B4
+Not Reserved 
+Not Reserved 
+00 
+C1
+Not Reserved 
+Not Reserved 
+00 
+C2
+Not Reserved 
+Not Reserved 
+00 
+C3
+Not Reserved 
+Not Reserved 
+00 
+C4
+Not Reserved 
+Not Reserved 
+00 
+D1
+Not Reserved 
+Not Reserved 
+00 
+D2
+Not Reserved 
+Not Reserved 
+00 
+D3
+Not Reserved 
+Not Reserved 
+00 
+D4
+Not Reserved 
+Not Reserved 
+00 
+E1
+Not Reserved 
+Not Reserved 
+00 
+E2
+Not Reserved 
+Not Reserved 
+00 
+E3
+Not Reserved 
+Not Reserved 
+00 
+E4
+Not Reserved 
+Not Reserved 
+00 
+F1
+Not Reserved 
+Not Reserved 
+00 
+F2
+Not Reserved 
+Not Reserved 
+00 
+F3
+Not Reserved 
+Not Reserved 
+00 
+F4
+Not Reserved 
+Not Reserved 
+00 
+G1
+Not Reserved 
+Not Reserved 
+00 
+G2
+Not Reserved 
+Not Reserved 
+00 
+G3
+Not Reserved 
+Not Reserved 
+00 
+G4
+Not Reserved 
+Not Reserved 
+00 
+H1
+Not Reserved 
+Not Reserved 
+00 
+H2
+Not Reserved 
+Not Reserved 
+00 
+H3
+Not Reserved 
+Not Reserved 
+00 
+H4
+Not Reserved 
+Not Reserved 
+00 
+I1
+Not Reserved 
+Not Reserved 
+00 
+I2
+Not Reserved 
+Not Reserved 
+00 
+I3
+Not Reserved 
+Not Reserved 
+00 
+I4
+Not Reserved 
+Not Reserved 
+00 
+J1
+Not Reserved 
+Not Reserved 
+00 
+J2
+Not Reserved 
+Not Reserved 
+00 
+J3
+Not Reserved 
+Not Reserved 
+00 
+J4
+Not Reserved 
+Not Reserved 
+00 
+K1
+Not Reserved 
+Not Reserved 
+00 
+K2
+Not Reserved 
+Not Reserved 
+00 
+K3
+Not Reserved 
+Not Reserved 
+00 
+K4
+Not Reserved 
+Not Reserved 
+00 
+L1
+Not Reserved 
+Not Reserved 
+00 
+L2
+Not Reserved 
+Not Reserved 
+00 
+L3
+Not Reserved 
+Not Reserved 
+00 
+L4
+Not Reserved 
+Not Reserved 
+00 
+M1
+Not Reserved 
+Not Reserved 
+00 
+M2
+Not Reserved 
+Not Reserved 
+00 
+M3
+Not Reserved 
+Not Reserved 
+00 
+M4
+Not Reserved 
+Not Reserved 
+00 
+N1
+Not Reserved 
+Not Reserved 
+00 
+N2
+Not Reserved 
+Not Reserved 
+00 
+N3
+Not Reserved 
+Not Reserved 
+00 
+N4
+Not Reserved 
+Not Reserved 
+00 
+O1
+Not Reserved 
+Not Reserved 
+00 
+O2
+Not Reserved 
+Not Reserved 
+00 
+O3
+Not Reserved 
+Not Reserved 
+00 
+O4
+Not Reserved 
+Not Reserved 
+00 
